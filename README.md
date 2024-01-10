@@ -2,7 +2,7 @@
 
 This is the readme of Travis Stratton.
 
-- Favorite Numbers are 3, 8, 15. 32, 42, 56
+- Favorite Numbers are 3, 8, 15. 32, 42, 56, 99
 
 When I make changes to my code:
 
